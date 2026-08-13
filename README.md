@@ -26,7 +26,7 @@ I turn raw data into compelling narrative-driven insights. I look beyond the num
 
 ## 📁 Highlighted Projects
 
-### 1. 📊 Zambian Macro-to-Micro Transmission Engine(Link-to-Repo)
+### 1. 📊 Zambian Macro-to-Micro Transmission Engine (https://github.com/dineodube-coder/Zambian-Macro-to-Micro-Transmission-Engine)
 * **Objective:** Linking Bank of Zambia (Boz) monetary policy with Lusaka Securities Exchange(LuSE) capital markets and Optasia-style fintech micro-lending portfolios to predict financial market exposure.
 * **Tech Stack:** SQL (PostgreSQL), Python (Pandas, Numpy, SQLAlchemy), Power BI.
 * **Story & Impact:** Discovered that consumer defaults risks on mobile money platforms act as a leading indicator for public equities, shifting exactly one quarter(90 days) ahead of the stock market.
